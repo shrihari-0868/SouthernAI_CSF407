@@ -1,7 +1,7 @@
 # AI and the Language of DNA/RNA
 
 **Team SouthernAI** — Shrihari Karthik (2023B4A70868G), Joel George (2023AAPS0625G),
-Hrishikesh M S (2024A1PS0289G), Aman S Sumod
+Hrishikesh M S (2024A1PS0289G), Aman S Sumod (2024AAPSS0737G)
 CS F407 Artificial Intelligence, BITS Pilani K.K. Birla Goa Campus
 
 > If DNA is a four-letter language, can an AI learn enough of its vocabulary and grammar to
