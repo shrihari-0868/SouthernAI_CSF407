@@ -1,0 +1,25 @@
+genome_id,genus,organism,label,pair_group,header,genome_length,genome_gc,header_genus_ok
+NC_007530.2,Bacillus,Bacillus anthracis Ames,1,pair,"NC_007530.2 Bacillus anthracis str. 'Ames Ancestor', complete sequence",5227419,0.3538,True
+NC_000964.3,Bacillus,Bacillus subtilis 168,0,pair,NC_000964.3 Bacillus subtilis subsp. subtilis str. 168 complete genome,4215606,0.4351,True
+NC_002516.2,Pseudomonas,Pseudomonas aeruginosa PAO1,1,pair,"NC_002516.2 Pseudomonas aeruginosa PAO1, complete genome",6264404,0.6656,True
+NC_002947.4,Pseudomonas,Pseudomonas putida KT2440,0,pair,"NC_002947.4 Pseudomonas putida KT2440, complete sequence",6181873,0.6152,True
+NC_003210.1,Listeria,Listeria monocytogenes EGD-e,1,pair,"NC_003210.1 Listeria monocytogenes EGD-e chromosome, complete genome",2944528,0.3798,True
+NC_003212.1,Listeria,Listeria innocua Clip11262,0,pair,"NC_003212.1 Listeria innocua Clip11262, complete sequence",3011208,0.3744,True
+NC_002695.2,Escherichia,Escherichia coli O157:H7 Sakai,1,pair,"NC_002695.2 Escherichia coli O157:H7 str. Sakai DNA, complete genome",5498578,0.5054,True
+NC_000913.3,Escherichia,Escherichia coli K-12 MG1655,0,pair,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",4641652,0.5079,True
+NC_002935.2,Corynebacterium,Corynebacterium diphtheriae NCTC 13129,1,pair,"NC_002935.2 Corynebacterium diphtheriae NCTC 13129, complete sequence",2488635,0.5348,True
+NC_003450.3,Corynebacterium,Corynebacterium glutamicum ATCC 13032,0,pair,"NC_003450.3 Corynebacterium glutamicum ATCC 13032, complete sequence",3309401,0.5381,True
+NC_002737.2,Streptococcus,Streptococcus pyogenes SF370,1,pair,"NC_002737.2 Streptococcus pyogenes M1 GAS, complete sequence",1852433,0.3851,True
+NC_006448.1,Streptococcus,Streptococcus thermophilus LMG 18311,0,pair,"NC_006448.1 Streptococcus thermophilus LMG 18311, complete sequence",1796846,0.3909,True
+NC_000962.3,Mycobacterium,Mycobacterium tuberculosis H37Rv,1,single,"NC_000962.3 Mycobacterium tuberculosis H37Rv, complete genome",4411532,0.6561,True
+NC_002505.1,Vibrio,Vibrio cholerae N16961 (chr 1),1,single,"NC_002505.1 Vibrio cholerae O1 biovar El Tor str. N16961 chromosome I, complete sequence",2961149,0.4769,True
+NC_003197.2,Salmonella,Salmonella enterica Typhimurium LT2,1,single,"NC_003197.2 Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome",4857450,0.5222,True
+NC_003143.1,Yersinia,Yersinia pestis CO92,1,single,"NC_003143.1 Yersinia pestis CO92, complete sequence",4653728,0.4764,True
+NC_000915.1,Helicobacter,Helicobacter pylori 26695,1,single,"NC_000915.1 Helicobacter pylori 26695, complete sequence",1667867,0.3887,True
+NC_007795.1,Staphylococcus,Staphylococcus aureus NCTC 8325,1,single,"NC_007795.1 Staphylococcus aureus subsp. aureus NCTC 8325 chromosome, complete genome",2821361,0.3287,True
+NC_002662.1,Lactococcus,Lactococcus lactis IL1403,0,single,"NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence",2365589,0.3533,True
+NC_003888.3,Streptomyces,Streptomyces coelicolor A3(2),0,single,"NC_003888.3 Streptomyces coelicolor A3(2), complete sequence",8667507,0.7212,True
+NC_004307.2,Bifidobacterium,Bifidobacterium longum NCC2705,0,single,"NC_004307.2 Bifidobacterium longum NCC2705, complete sequence",2256640,0.6012,True
+NC_004567.2,Lactiplantibacillus,Lactiplantibacillus plantarum WCFS1,0,single,"NC_004567.2 Lactiplantibacillus plantarum WCFS1, complete sequence",3308273,0.4447,True
+NC_000911.1,Synechocystis,Synechocystis sp. PCC 6803,0,single,"NC_000911.1 Synechocystis sp. PCC 6803, complete sequence",3573470,0.4772,True
+NC_003047.1,Sinorhizobium,Sinorhizobium meliloti 1021,0,single,"NC_003047.1 Sinorhizobium meliloti 1021, complete sequence",3654135,0.6273,True

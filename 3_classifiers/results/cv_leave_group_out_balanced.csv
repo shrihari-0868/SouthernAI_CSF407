@@ -1,0 +1,21 @@
+rep,k,model,cv_leave_group_out
+-,-,Majority,0.2222222222222222
+-,-,GC-only LogReg,0.5647222222222222
+bow,3,LogReg,0.53125
+bow,3,DecisionTree,0.45625
+tfidf,3,LogReg,0.5119444444444444
+tfidf,3,DecisionTree,0.4477777777777778
+w2v,3,LogReg,0.5316666666666666
+w2v,3,DecisionTree,0.4413888888888889
+bow,4,LogReg,0.5030555555555556
+bow,4,DecisionTree,0.45875
+tfidf,4,LogReg,0.4986111111111111
+tfidf,4,DecisionTree,0.46708333333333335
+w2v,4,LogReg,0.5290277777777778
+w2v,4,DecisionTree,0.42486111111111113
+bow,6,LogReg,0.48430555555555554
+bow,6,DecisionTree,0.5091666666666667
+tfidf,6,LogReg,0.48
+tfidf,6,DecisionTree,0.48625
+w2v,6,LogReg,0.5081944444444444
+w2v,6,DecisionTree,0.4197222222222222

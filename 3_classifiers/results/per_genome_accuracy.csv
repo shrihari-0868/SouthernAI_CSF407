@@ -1,0 +1,217 @@
+rep,k,model,genome_id,organism,label,acc
+bow,3,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.7775
+bow,3,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.6825
+bow,3,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3025
+bow,3,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.77
+bow,3,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.1575
+bow,3,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.8325
+bow,3,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.7575
+bow,3,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.4125
+bow,3,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.315
+bow,3,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.6675
+bow,3,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.35
+bow,3,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.785
+bow,3,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.9025
+bow,3,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.305
+bow,3,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.2325
+bow,3,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.745
+bow,3,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.1975
+bow,3,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.865
+bow,3,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.96
+bow,3,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.685
+bow,3,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.375
+bow,3,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.7225
+bow,3,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.2625
+bow,3,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.63
+tfidf,3,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.82
+tfidf,3,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.6325
+tfidf,3,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3125
+tfidf,3,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.7775
+tfidf,3,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.1525
+tfidf,3,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.815
+tfidf,3,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.705
+tfidf,3,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.28
+tfidf,3,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.4
+tfidf,3,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.6275
+tfidf,3,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.2675
+tfidf,3,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.68
+tfidf,3,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.9075
+tfidf,3,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.24
+tfidf,3,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.235
+tfidf,3,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.76
+tfidf,3,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.16
+tfidf,3,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.875
+tfidf,3,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.94
+tfidf,3,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.6175
+tfidf,3,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3675
+tfidf,3,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.755
+tfidf,3,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.2475
+tfidf,3,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.6175
+w2v,3,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.7975
+w2v,3,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.6675
+w2v,3,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.4075
+w2v,3,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.775
+w2v,3,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.1475
+w2v,3,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.845
+w2v,3,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.7975
+w2v,3,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.435
+w2v,3,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.435
+w2v,3,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.705
+w2v,3,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.2975
+w2v,3,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.675
+w2v,3,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.6425
+w2v,3,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.2425
+w2v,3,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3675
+w2v,3,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.6825
+w2v,3,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.205
+w2v,3,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.8075
+w2v,3,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.855
+w2v,3,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.6375
+w2v,3,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.5375
+w2v,3,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.695
+w2v,3,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.26
+w2v,3,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.5825
+bow,4,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.8925
+bow,4,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.5425
+bow,4,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3175
+bow,4,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.78
+bow,4,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.2075
+bow,4,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.735
+bow,4,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.7325
+bow,4,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.42
+bow,4,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3525
+bow,4,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.6125
+bow,4,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.35
+bow,4,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.7175
+bow,4,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.92
+bow,4,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.165
+bow,4,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.1725
+bow,4,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.8425
+bow,4,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.11
+bow,4,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.8925
+bow,4,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.95
+bow,4,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.575
+bow,4,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.4375
+bow,4,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.77
+bow,4,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.225
+bow,4,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.6175
+tfidf,4,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.9025
+tfidf,4,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.52
+tfidf,4,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3175
+tfidf,4,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.7775
+tfidf,4,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.2025
+tfidf,4,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.7325
+tfidf,4,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.7875
+tfidf,4,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.3125
+tfidf,4,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.605
+tfidf,4,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.64
+tfidf,4,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.3075
+tfidf,4,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.51
+tfidf,4,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.945
+tfidf,4,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.12
+tfidf,4,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.245
+tfidf,4,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.815
+tfidf,4,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.1475
+tfidf,4,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.835
+tfidf,4,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.9625
+tfidf,4,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.585
+tfidf,4,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3925
+tfidf,4,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.77
+tfidf,4,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.24
+tfidf,4,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.58
+w2v,4,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.7075
+w2v,4,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.685
+w2v,4,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.2825
+w2v,4,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.7825
+w2v,4,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.1475
+w2v,4,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.83
+w2v,4,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.3875
+w2v,4,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.47
+w2v,4,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.2725
+w2v,4,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.5375
+w2v,4,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.41
+w2v,4,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.715
+w2v,4,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.7025
+w2v,4,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.26
+w2v,4,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.325
+w2v,4,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.72
+w2v,4,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.215
+w2v,4,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.7625
+w2v,4,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.8875
+w2v,4,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.7475
+w2v,4,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.385
+w2v,4,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.7375
+w2v,4,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.2125
+w2v,4,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.57
+bow,6,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.79
+bow,6,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.5175
+bow,6,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3825
+bow,6,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.6625
+bow,6,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.33
+bow,6,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.655
+bow,6,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.7225
+bow,6,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.235
+bow,6,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.415
+bow,6,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.7625
+bow,6,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.2475
+bow,6,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.56
+bow,6,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.975
+bow,6,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.0625
+bow,6,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.1525
+bow,6,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.9775
+bow,6,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.025
+bow,6,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.895
+bow,6,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.92
+bow,6,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.54
+bow,6,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3375
+bow,6,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.755
+bow,6,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.2275
+bow,6,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.69
+tfidf,6,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.79
+tfidf,6,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.5175
+tfidf,6,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3825
+tfidf,6,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.66
+tfidf,6,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.32
+tfidf,6,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.66
+tfidf,6,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.785
+tfidf,6,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.2675
+tfidf,6,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.4225
+tfidf,6,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.675
+tfidf,6,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.3
+tfidf,6,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.5675
+tfidf,6,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.955
+tfidf,6,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.1625
+tfidf,6,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.1525
+tfidf,6,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.775
+tfidf,6,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.18
+tfidf,6,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.8525
+tfidf,6,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.925
+tfidf,6,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.52
+tfidf,6,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3325
+tfidf,6,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.77
+tfidf,6,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.2125
+tfidf,6,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.6975
+w2v,6,LogReg,NC_000915.1,Helicobacter pylori 26695,1,0.89
+w2v,6,LogReg,NC_002662.1,Lactococcus lactis IL1403,0,0.6
+w2v,6,LogReg,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3625
+w2v,6,LogReg,NC_003210.1,Listeria monocytogenes EGD-e,1,0.7725
+w2v,6,LogReg,NC_003212.1,Listeria innocua Clip11262,0,0.135
+w2v,6,LogReg,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.7775
+w2v,6,DecisionTree,NC_000915.1,Helicobacter pylori 26695,1,0.56
+w2v,6,DecisionTree,NC_002662.1,Lactococcus lactis IL1403,0,0.315
+w2v,6,DecisionTree,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.385
+w2v,6,DecisionTree,NC_003210.1,Listeria monocytogenes EGD-e,1,0.6575
+w2v,6,DecisionTree,NC_003212.1,Listeria innocua Clip11262,0,0.29
+w2v,6,DecisionTree,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.705
+w2v,6,RandomForest,NC_000915.1,Helicobacter pylori 26695,1,0.77
+w2v,6,RandomForest,NC_002662.1,Lactococcus lactis IL1403,0,0.235
+w2v,6,RandomForest,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.26
+w2v,6,RandomForest,NC_003210.1,Listeria monocytogenes EGD-e,1,0.775
+w2v,6,RandomForest,NC_003212.1,Listeria innocua Clip11262,0,0.17
+w2v,6,RandomForest,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.825
+w2v,6,MLP,NC_000915.1,Helicobacter pylori 26695,1,0.9625
+w2v,6,MLP,NC_002662.1,Lactococcus lactis IL1403,0,0.725
+w2v,6,MLP,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,1,0.3875
+w2v,6,MLP,NC_003210.1,Listeria monocytogenes EGD-e,1,0.76
+w2v,6,MLP,NC_003212.1,Listeria innocua Clip11262,0,0.24
+w2v,6,MLP,NC_003450.3,Corynebacterium glutamicum ATCC 13032,0,0.6025

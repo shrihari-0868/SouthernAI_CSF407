@@ -1,0 +1,25 @@
+,organism,label,ctag_obs_over_exp,ctag_freq
+0,Synechocystis sp. PCC 6803,0,1.106973,0.0029914742
+1,Escherichia coli K-12 MG1655,0,0.28376997,0.00019809429
+2,Helicobacter pylori 26695,1,0.7669838,0.0025802406
+3,Mycobacterium tuberculosis H37Rv,1,0.7211623,0.0009653962
+4,Bacillus subtilis 168,0,0.852207,0.0007397192
+5,Vibrio cholerae N16961 (chr 1),1,0.913024,0.0014618858
+6,Pseudomonas aeruginosa PAO1,1,0.23962261,0.0002858576
+7,Lactococcus lactis IL1403,0,0.94688576,0.0015095286
+8,Escherichia coli O157:H7 Sakai,1,0.35738555,0.00025075226
+9,Streptococcus pyogenes SF370,1,0.91689664,0.0027031093
+10,Corynebacterium diphtheriae NCTC 13129,1,0.96408737,0.002121364
+11,Pseudomonas putida KT2440,0,0.46530315,0.00048395188
+12,Sinorhizobium meliloti 1021,0,0.26045927,0.0002557673
+13,Yersinia pestis CO92,1,0.57719827,0.00072718156
+14,Salmonella enterica Typhimurium LT2,1,0.19081798,0.00016298897
+15,Listeria monocytogenes EGD-e,1,1.0478795,0.0021238716
+16,Listeria innocua Clip11262,0,1.152649,0.0025451353
+17,Corynebacterium glutamicum ATCC 13032,0,0.9188581,0.0015320963
+18,Streptomyces coelicolor A3(2),0,0.31623542,0.00017552658
+19,Bifidobacterium longum NCC2705,0,0.53383106,0.0003986961
+20,Lactiplantibacillus plantarum WCFS1,0,1.0924745,0.0022392175
+21,Streptococcus thermophilus LMG 18311,0,0.8947214,0.0024523572
+22,Bacillus anthracis Ames,1,0.9145231,0.0016449349
+23,Staphylococcus aureus NCTC 8325,1,0.8231735,0.0015371114

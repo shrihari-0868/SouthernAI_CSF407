@@ -1,0 +1,33 @@
+# Raw genome sequences (~90 MB). Fetch with data/download_raw_genomes.py when needed.
+data/raw/
+raw_*.fasta
+
+# Rebuildable representation matrices (~84 MB).
+# Recreate with 2_representations/build_representations.py
+2_representations/out/
+*.npz
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.bbl
+*.blg
+report/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db

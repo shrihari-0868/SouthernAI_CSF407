@@ -1,0 +1,25 @@
+model,condition,test_fragment_acc,test_auc,corr_with_original_scores,mean_abs_change_in_p
+GC-only,original,0.5179166666666667,0.42646527777777776,0.9999999999999998,0.0
+GC-only,"letters shuffled (composition kept, order destroyed)",0.5179166666666667,0.42646527777777776,0.9999999999999998,0.0
+GC-only,10-bp blocks shuffled (short words kept),0.5179166666666667,0.42646527777777776,0.9999999999999998,0.0
+GC-only,"reverse complement (same DNA, other strand)",0.5179166666666667,0.42646527777777776,0.9999999999999998,0.0
+Letters (1-mer),original,0.5225,0.4274385416666666,1.0,0.0
+Letters (1-mer),"letters shuffled (composition kept, order destroyed)",0.5225,0.4274385416666666,1.0,0.0
+Letters (1-mer),10-bp blocks shuffled (short words kept),0.5225,0.4274385416666666,1.0,0.0
+Letters (1-mer),"reverse complement (same DNA, other strand)",0.5166666666666667,0.42771111111111115,0.9895890637080847,0.008753389
+3-mer,original,0.5870833333333333,0.6072260416666666,1.0,0.0
+3-mer,"letters shuffled (composition kept, order destroyed)",0.5066666666666667,0.4546402777777778,0.4245567821528961,0.23071116
+3-mer,10-bp blocks shuffled (short words kept),0.57125,0.5851833333333333,0.9304709074460884,0.06737946
+3-mer,"reverse complement (same DNA, other strand)",0.5891666666666666,0.6057579861111112,0.9678617305245476,0.045980703
+4-mer,original,0.5791666666666667,0.6071840277777778,1.0,0.0
+4-mer,"letters shuffled (composition kept, order destroyed)",0.4845833333333333,0.4739930555555556,0.354194340597768,0.24610326
+4-mer,10-bp blocks shuffled (short words kept),0.5679166666666666,0.5860916666666667,0.8721872406794072,0.10371534
+4-mer,"reverse complement (same DNA, other strand)",0.5791666666666667,0.6078569444444444,0.9019212514660687,0.09031102
+Multi-scale 1-4-mer,original,0.5775,0.6070875,1.0,0.0
+Multi-scale 1-4-mer,"letters shuffled (composition kept, order destroyed)",0.48541666666666666,0.47399236111111115,0.3539498171404516,0.24623057
+Multi-scale 1-4-mer,10-bp blocks shuffled (short words kept),0.5679166666666666,0.5860201388888889,0.8722439458274442,0.103761815
+Multi-scale 1-4-mer,"reverse complement (same DNA, other strand)",0.57875,0.6077708333333334,0.9017731262027515,0.09038366
+CNN (raw sequence),original,0.5125,0.5047934027777777,1.0,0.0
+CNN (raw sequence),"letters shuffled (composition kept, order destroyed)",0.48375,0.45205833333333334,0.5533071113431189,0.14158055
+CNN (raw sequence),10-bp blocks shuffled (short words kept),0.5345833333333333,0.5368604166666666,0.8750202462421143,0.07008023
+CNN (raw sequence),"reverse complement (same DNA, other strand)",0.5125,0.5047934027777777,1.0,0.0

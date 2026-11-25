@@ -1,0 +1,169 @@
+model,genome_id,organism,genus,label,logo_mean_p_pathogen
+GC-only,NC_000911.1,Synechocystis sp. PCC 6803,Synechocystis,0,0.5064669251441956
+GC-only,NC_000913.3,Escherichia coli K-12 MG1655,Escherichia,0,0.4878376424312591
+GC-only,NC_000915.1,Helicobacter pylori 26695,Helicobacter,1,0.5512348413467407
+GC-only,NC_000962.3,Mycobacterium tuberculosis H37Rv,Mycobacterium,1,0.3320420086383819
+GC-only,NC_000964.3,Bacillus subtilis 168,Bacillus,0,0.5364289283752441
+GC-only,NC_002505.1,Vibrio cholerae N16961 (chr 1),Vibrio,1,0.5079247355461121
+GC-only,NC_002516.2,Pseudomonas aeruginosa PAO1,Pseudomonas,1,0.3375191986560821
+GC-only,NC_002662.1,Lactococcus lactis IL1403,Lactococcus,0,0.6318140625953674
+GC-only,NC_002695.2,Escherichia coli O157:H7 Sakai,Escherichia,1,0.4902110397815704
+GC-only,NC_002737.2,Streptococcus pyogenes SF370,Streptococcus,1,0.5768606066703796
+GC-only,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,Corynebacterium,1,0.4690886437892914
+GC-only,NC_002947.4,Pseudomonas putida KT2440,Pseudomonas,0,0.3793798685073852
+GC-only,NC_003047.1,Sinorhizobium meliloti 1021,Sinorhizobium,0,0.4371702671051025
+GC-only,NC_003143.1,Yersinia pestis CO92,Yersinia,1,0.5064642429351807
+GC-only,NC_003197.2,Salmonella enterica Typhimurium LT2,Salmonella,1,0.4745734333992004
+GC-only,NC_003210.1,Listeria monocytogenes EGD-e,Listeria,1,0.5864447355270386
+GC-only,NC_003212.1,Listeria innocua Clip11262,Listeria,0,0.5886127352714539
+GC-only,NC_003450.3,Corynebacterium glutamicum ATCC 13032,Corynebacterium,0,0.4655555486679077
+GC-only,NC_003888.3,Streptomyces coelicolor A3(2),Streptomyces,0,0.422519326210022
+GC-only,NC_004307.2,Bifidobacterium longum NCC2705,Bifidobacterium,0,0.444107323884964
+GC-only,NC_004567.2,Lactiplantibacillus plantarum WCFS1,Lactiplantibacillus,0,0.5351609587669373
+GC-only,NC_006448.1,Streptococcus thermophilus LMG 18311,Streptococcus,0,0.5725840330123901
+GC-only,NC_007530.2,Bacillus anthracis Ames,Bacillus,1,0.5798339247703552
+GC-only,NC_007795.1,Staphylococcus aureus NCTC 8325,Staphylococcus,1,0.569663941860199
+Letters (1-mer),NC_000911.1,Synechocystis sp. PCC 6803,Synechocystis,0,0.5064005851745605
+Letters (1-mer),NC_000913.3,Escherichia coli K-12 MG1655,Escherichia,0,0.4877796471118927
+Letters (1-mer),NC_000915.1,Helicobacter pylori 26695,Helicobacter,1,0.5504350066184998
+Letters (1-mer),NC_000962.3,Mycobacterium tuberculosis H37Rv,Mycobacterium,1,0.3314255475997925
+Letters (1-mer),NC_000964.3,Bacillus subtilis 168,Bacillus,0,0.5365923643112183
+Letters (1-mer),NC_002505.1,Vibrio cholerae N16961 (chr 1),Vibrio,1,0.5079497694969177
+Letters (1-mer),NC_002516.2,Pseudomonas aeruginosa PAO1,Pseudomonas,1,0.3360643684864044
+Letters (1-mer),NC_002662.1,Lactococcus lactis IL1403,Lactococcus,0,0.6327876448631287
+Letters (1-mer),NC_002695.2,Escherichia coli O157:H7 Sakai,Escherichia,1,0.490337610244751
+Letters (1-mer),NC_002737.2,Streptococcus pyogenes SF370,Streptococcus,1,0.577640175819397
+Letters (1-mer),NC_002935.2,Corynebacterium diphtheriae NCTC 13129,Corynebacterium,1,0.4689664542675018
+Letters (1-mer),NC_002947.4,Pseudomonas putida KT2440,Pseudomonas,0,0.3793165683746338
+Letters (1-mer),NC_003047.1,Sinorhizobium meliloti 1021,Sinorhizobium,0,0.4366732537746429
+Letters (1-mer),NC_003143.1,Yersinia pestis CO92,Yersinia,1,0.5066203474998474
+Letters (1-mer),NC_003197.2,Salmonella enterica Typhimurium LT2,Salmonella,1,0.4739944338798523
+Letters (1-mer),NC_003210.1,Listeria monocytogenes EGD-e,Listeria,1,0.5864757299423218
+Letters (1-mer),NC_003212.1,Listeria innocua Clip11262,Listeria,0,0.5888093113899231
+Letters (1-mer),NC_003450.3,Corynebacterium glutamicum ATCC 13032,Corynebacterium,0,0.4652964770793915
+Letters (1-mer),NC_003888.3,Streptomyces coelicolor A3(2),Streptomyces,0,0.422349065542221
+Letters (1-mer),NC_004307.2,Bifidobacterium longum NCC2705,Bifidobacterium,0,0.444019615650177
+Letters (1-mer),NC_004567.2,Lactiplantibacillus plantarum WCFS1,Lactiplantibacillus,0,0.5352297425270081
+Letters (1-mer),NC_006448.1,Streptococcus thermophilus LMG 18311,Streptococcus,0,0.5731977224349976
+Letters (1-mer),NC_007530.2,Bacillus anthracis Ames,Bacillus,1,0.5803933143615723
+Letters (1-mer),NC_007795.1,Staphylococcus aureus NCTC 8325,Staphylococcus,1,0.5697423219680786
+2-mer,NC_000911.1,Synechocystis sp. PCC 6803,Synechocystis,0,0.3482307195663452
+2-mer,NC_000913.3,Escherichia coli K-12 MG1655,Escherichia,0,0.6087006330490112
+2-mer,NC_000915.1,Helicobacter pylori 26695,Helicobacter,1,0.3809854984283447
+2-mer,NC_000962.3,Mycobacterium tuberculosis H37Rv,Mycobacterium,1,0.30232685804367065
+2-mer,NC_000964.3,Bacillus subtilis 168,Bacillus,0,0.4274314045906067
+2-mer,NC_002505.1,Vibrio cholerae N16961 (chr 1),Vibrio,1,0.5280020236968994
+2-mer,NC_002516.2,Pseudomonas aeruginosa PAO1,Pseudomonas,1,0.45061370730400085
+2-mer,NC_002662.1,Lactococcus lactis IL1403,Lactococcus,0,0.5070252418518066
+2-mer,NC_002695.2,Escherichia coli O157:H7 Sakai,Escherichia,1,0.5895147919654846
+2-mer,NC_002737.2,Streptococcus pyogenes SF370,Streptococcus,1,0.5451077222824097
+2-mer,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,Corynebacterium,1,0.39927423000335693
+2-mer,NC_002947.4,Pseudomonas putida KT2440,Pseudomonas,0,0.5513916611671448
+2-mer,NC_003047.1,Sinorhizobium meliloti 1021,Sinorhizobium,0,0.48505905270576477
+2-mer,NC_003143.1,Yersinia pestis CO92,Yersinia,1,0.5382161140441895
+2-mer,NC_003197.2,Salmonella enterica Typhimurium LT2,Salmonella,1,0.6302377581596375
+2-mer,NC_003210.1,Listeria monocytogenes EGD-e,Listeria,1,0.6448315382003784
+2-mer,NC_003212.1,Listeria innocua Clip11262,Listeria,0,0.6803637742996216
+2-mer,NC_003450.3,Corynebacterium glutamicum ATCC 13032,Corynebacterium,0,0.28815504908561707
+2-mer,NC_003888.3,Streptomyces coelicolor A3(2),Streptomyces,0,0.509896457195282
+2-mer,NC_004307.2,Bifidobacterium longum NCC2705,Bifidobacterium,0,0.4077285826206207
+2-mer,NC_004567.2,Lactiplantibacillus plantarum WCFS1,Lactiplantibacillus,0,0.6216802597045898
+2-mer,NC_006448.1,Streptococcus thermophilus LMG 18311,Streptococcus,0,0.47989994287490845
+2-mer,NC_007530.2,Bacillus anthracis Ames,Bacillus,1,0.6572057604789734
+2-mer,NC_007795.1,Staphylococcus aureus NCTC 8325,Staphylococcus,1,0.7368160486221313
+3-mer,NC_000911.1,Synechocystis sp. PCC 6803,Synechocystis,0,0.3542660176753998
+3-mer,NC_000913.3,Escherichia coli K-12 MG1655,Escherichia,0,0.6988114714622498
+3-mer,NC_000915.1,Helicobacter pylori 26695,Helicobacter,1,0.549495279788971
+3-mer,NC_000962.3,Mycobacterium tuberculosis H37Rv,Mycobacterium,1,0.2428734451532364
+3-mer,NC_000964.3,Bacillus subtilis 168,Bacillus,0,0.4147100746631622
+3-mer,NC_002505.1,Vibrio cholerae N16961 (chr 1),Vibrio,1,0.5887774229049683
+3-mer,NC_002516.2,Pseudomonas aeruginosa PAO1,Pseudomonas,1,0.3321996927261352
+3-mer,NC_002662.1,Lactococcus lactis IL1403,Lactococcus,0,0.3850200176239013
+3-mer,NC_002695.2,Escherichia coli O157:H7 Sakai,Escherichia,1,0.6529012322425842
+3-mer,NC_002737.2,Streptococcus pyogenes SF370,Streptococcus,1,0.524420976638794
+3-mer,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,Corynebacterium,1,0.4580997824668884
+3-mer,NC_002947.4,Pseudomonas putida KT2440,Pseudomonas,0,0.5270770788192749
+3-mer,NC_003047.1,Sinorhizobium meliloti 1021,Sinorhizobium,0,0.509322464466095
+3-mer,NC_003143.1,Yersinia pestis CO92,Yersinia,1,0.543606698513031
+3-mer,NC_003197.2,Salmonella enterica Typhimurium LT2,Salmonella,1,0.6183243989944458
+3-mer,NC_003210.1,Listeria monocytogenes EGD-e,Listeria,1,0.6224190592765808
+3-mer,NC_003212.1,Listeria innocua Clip11262,Listeria,0,0.6688109636306763
+3-mer,NC_003450.3,Corynebacterium glutamicum ATCC 13032,Corynebacterium,0,0.3692479431629181
+3-mer,NC_003888.3,Streptomyces coelicolor A3(2),Streptomyces,0,0.5124265551567078
+3-mer,NC_004307.2,Bifidobacterium longum NCC2705,Bifidobacterium,0,0.3969246745109558
+3-mer,NC_004567.2,Lactiplantibacillus plantarum WCFS1,Lactiplantibacillus,0,0.5946056842803955
+3-mer,NC_006448.1,Streptococcus thermophilus LMG 18311,Streptococcus,0,0.4586058855056762
+3-mer,NC_007530.2,Bacillus anthracis Ames,Bacillus,1,0.6187887787818909
+3-mer,NC_007795.1,Staphylococcus aureus NCTC 8325,Staphylococcus,1,0.680649995803833
+4-mer,NC_000911.1,Synechocystis sp. PCC 6803,Synechocystis,0,0.3840344250202179
+4-mer,NC_000913.3,Escherichia coli K-12 MG1655,Escherichia,0,0.7983772158622742
+4-mer,NC_000915.1,Helicobacter pylori 26695,Helicobacter,1,0.6110238432884216
+4-mer,NC_000962.3,Mycobacterium tuberculosis H37Rv,Mycobacterium,1,0.2259343266487121
+4-mer,NC_000964.3,Bacillus subtilis 168,Bacillus,0,0.4358095824718475
+4-mer,NC_002505.1,Vibrio cholerae N16961 (chr 1),Vibrio,1,0.6157147288322449
+4-mer,NC_002516.2,Pseudomonas aeruginosa PAO1,Pseudomonas,1,0.3378319144248962
+4-mer,NC_002662.1,Lactococcus lactis IL1403,Lactococcus,0,0.3909941613674164
+4-mer,NC_002695.2,Escherichia coli O157:H7 Sakai,Escherichia,1,0.7517074346542358
+4-mer,NC_002737.2,Streptococcus pyogenes SF370,Streptococcus,1,0.3920304775238037
+4-mer,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,Corynebacterium,1,0.4215584993362427
+4-mer,NC_002947.4,Pseudomonas putida KT2440,Pseudomonas,0,0.5381585955619812
+4-mer,NC_003047.1,Sinorhizobium meliloti 1021,Sinorhizobium,0,0.6164875626564026
+4-mer,NC_003143.1,Yersinia pestis CO92,Yersinia,1,0.5483043193817139
+4-mer,NC_003197.2,Salmonella enterica Typhimurium LT2,Salmonella,1,0.646903395652771
+4-mer,NC_003210.1,Listeria monocytogenes EGD-e,Listeria,1,0.5778395533561707
+4-mer,NC_003212.1,Listeria innocua Clip11262,Listeria,0,0.616527795791626
+4-mer,NC_003450.3,Corynebacterium glutamicum ATCC 13032,Corynebacterium,0,0.3717274367809295
+4-mer,NC_003888.3,Streptomyces coelicolor A3(2),Streptomyces,0,0.5280020236968994
+4-mer,NC_004307.2,Bifidobacterium longum NCC2705,Bifidobacterium,0,0.3370789289474487
+4-mer,NC_004567.2,Lactiplantibacillus plantarum WCFS1,Lactiplantibacillus,0,0.6125227808952332
+4-mer,NC_006448.1,Streptococcus thermophilus LMG 18311,Streptococcus,0,0.3574949502944946
+4-mer,NC_007530.2,Bacillus anthracis Ames,Bacillus,1,0.6329429745674133
+4-mer,NC_007795.1,Staphylococcus aureus NCTC 8325,Staphylococcus,1,0.65874844789505
+Multi-scale 1-4-mer,NC_000911.1,Synechocystis sp. PCC 6803,Synechocystis,0,0.3842307925224304
+Multi-scale 1-4-mer,NC_000913.3,Escherichia coli K-12 MG1655,Escherichia,0,0.7983211278915405
+Multi-scale 1-4-mer,NC_000915.1,Helicobacter pylori 26695,Helicobacter,1,0.6107774376869202
+Multi-scale 1-4-mer,NC_000962.3,Mycobacterium tuberculosis H37Rv,Mycobacterium,1,0.2255022972822189
+Multi-scale 1-4-mer,NC_000964.3,Bacillus subtilis 168,Bacillus,0,0.4357540011405945
+Multi-scale 1-4-mer,NC_002505.1,Vibrio cholerae N16961 (chr 1),Vibrio,1,0.6161447763442993
+Multi-scale 1-4-mer,NC_002516.2,Pseudomonas aeruginosa PAO1,Pseudomonas,1,0.3380536139011383
+Multi-scale 1-4-mer,NC_002662.1,Lactococcus lactis IL1403,Lactococcus,0,0.3908135294914245
+Multi-scale 1-4-mer,NC_002695.2,Escherichia coli O157:H7 Sakai,Escherichia,1,0.7516002655029297
+Multi-scale 1-4-mer,NC_002737.2,Streptococcus pyogenes SF370,Streptococcus,1,0.3919890522956848
+Multi-scale 1-4-mer,NC_002935.2,Corynebacterium diphtheriae NCTC 13129,Corynebacterium,1,0.4215753674507141
+Multi-scale 1-4-mer,NC_002947.4,Pseudomonas putida KT2440,Pseudomonas,0,0.5385095477104187
+Multi-scale 1-4-mer,NC_003047.1,Sinorhizobium meliloti 1021,Sinorhizobium,0,0.6167910099029541
+Multi-scale 1-4-mer,NC_003143.1,Yersinia pestis CO92,Yersinia,1,0.5479533672332764
+Multi-scale 1-4-mer,NC_003197.2,Salmonella enterica Typhimurium LT2,Salmonella,1,0.6470059156417847
+Multi-scale 1-4-mer,NC_003210.1,Listeria monocytogenes EGD-e,Listeria,1,0.5780833959579468
+Multi-scale 1-4-mer,NC_003212.1,Listeria innocua Clip11262,Listeria,0,0.6168770790100098
+Multi-scale 1-4-mer,NC_003450.3,Corynebacterium glutamicum ATCC 13032,Corynebacterium,0,0.3717025518417358
+Multi-scale 1-4-mer,NC_003888.3,Streptomyces coelicolor A3(2),Streptomyces,0,0.5286810398101807
+Multi-scale 1-4-mer,NC_004307.2,Bifidobacterium longum NCC2705,Bifidobacterium,0,0.3369779586791992
+Multi-scale 1-4-mer,NC_004567.2,Lactiplantibacillus plantarum WCFS1,Lactiplantibacillus,0,0.6123090982437134
+Multi-scale 1-4-mer,NC_006448.1,Streptococcus thermophilus LMG 18311,Streptococcus,0,0.3572472333908081
+Multi-scale 1-4-mer,NC_007530.2,Bacillus anthracis Ames,Bacillus,1,0.6332185864448547
+Multi-scale 1-4-mer,NC_007795.1,Staphylococcus aureus NCTC 8325,Staphylococcus,1,0.6585037708282471
+CNN (raw sequence),NC_000911.1,Synechocystis sp. PCC 6803,Synechocystis,0,0.4692551791667938
+CNN (raw sequence),NC_000913.3,Escherichia coli K-12 MG1655,Escherichia,0,0.6992306709289551
+CNN (raw sequence),NC_000915.1,Helicobacter pylori 26695,Helicobacter,1,0.4138780832290649
+CNN (raw sequence),NC_000962.3,Mycobacterium tuberculosis H37Rv,Mycobacterium,1,0.3158512413501739
+CNN (raw sequence),NC_000964.3,Bacillus subtilis 168,Bacillus,0,0.5793949961662292
+CNN (raw sequence),NC_002505.1,Vibrio cholerae N16961 (chr 1),Vibrio,1,0.5910919904708862
+CNN (raw sequence),NC_002516.2,Pseudomonas aeruginosa PAO1,Pseudomonas,1,0.282332181930542
+CNN (raw sequence),NC_002662.1,Lactococcus lactis IL1403,Lactococcus,0,0.5026859045028687
+CNN (raw sequence),NC_002695.2,Escherichia coli O157:H7 Sakai,Escherichia,1,0.6629937887191772
+CNN (raw sequence),NC_002737.2,Streptococcus pyogenes SF370,Streptococcus,1,0.4596102833747864
+CNN (raw sequence),NC_002935.2,Corynebacterium diphtheriae NCTC 13129,Corynebacterium,1,0.4662087559700012
+CNN (raw sequence),NC_002947.4,Pseudomonas putida KT2440,Pseudomonas,0,0.3737757802009582
+CNN (raw sequence),NC_003047.1,Sinorhizobium meliloti 1021,Sinorhizobium,0,0.4570085406303406
+CNN (raw sequence),NC_003143.1,Yersinia pestis CO92,Yersinia,1,0.578054666519165
+CNN (raw sequence),NC_003197.2,Salmonella enterica Typhimurium LT2,Salmonella,1,0.583572506904602
+CNN (raw sequence),NC_003210.1,Listeria monocytogenes EGD-e,Listeria,1,0.6228519082069397
+CNN (raw sequence),NC_003212.1,Listeria innocua Clip11262,Listeria,0,0.6461990475654602
+CNN (raw sequence),NC_003450.3,Corynebacterium glutamicum ATCC 13032,Corynebacterium,0,0.3862180411815643
+CNN (raw sequence),NC_003888.3,Streptomyces coelicolor A3(2),Streptomyces,0,0.4616180658340454
+CNN (raw sequence),NC_004307.2,Bifidobacterium longum NCC2705,Bifidobacterium,0,0.3055892884731293
+CNN (raw sequence),NC_004567.2,Lactiplantibacillus plantarum WCFS1,Lactiplantibacillus,0,0.5726177096366882
+CNN (raw sequence),NC_006448.1,Streptococcus thermophilus LMG 18311,Streptococcus,0,0.4105254113674164
+CNN (raw sequence),NC_007530.2,Bacillus anthracis Ames,Bacillus,1,0.6615424156188965
+CNN (raw sequence),NC_007795.1,Staphylococcus aureus NCTC 8325,Staphylococcus,1,0.5647743344306946

@@ -1,0 +1,5 @@
+{
+ "final_model": "2-mer",
+ "selected_by": "genus-grouped CV on the 18 training genomes only",
+ "runtime_s": 2715
+}
